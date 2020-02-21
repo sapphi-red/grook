@@ -1,0 +1,15 @@
+{
+  "name": "grook",
+  "version": "0.0.1",
+  "description": "desc",
+  "main": "lib/grook.js",
+  "dependencies": {
+    "bindings": "^1.5.0",
+    "node-addon-api": "^2.0.0",
+    "sharp": "^0.24.1"
+  },
+  "scripts": {
+    "test": "node lib/grook.js"
+  },
+  "gypfile": true
+}
